@@ -1,0 +1,6 @@
+Nombre = input ("Ingresa tu nombre ")
+Nota1 = float(input ("Ingrese Nota 1 "))
+Nota2 = float(input ("Ingrese Nota 2 "))
+Nota3 = float(input ("Ingrese Nota 3 "))
+Promedio = float((Nota1 + Nota2 + Nota3) / 3)
+print (f"{Nombre} tu promedio es {Promedio}")
